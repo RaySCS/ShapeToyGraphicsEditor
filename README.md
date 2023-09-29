@@ -2,20 +2,47 @@
 
 Welcome to the ShapeToy Graphics Editor, a simple web-based application for creating and editing shapes on a canvas.
 
+![ShapeToy Web Graphics Editor Screenshot](shapetoypic.png)
 
+## Demo
+Here is a quick video demo going over the core functionality of the project: https://youtu.be/XCHFK9sCduI
 
-## How to run the project
+## Features
 
-In order to run the project, follow:
+- Create and edit rectangles and circles.
+- Select and manipulate shapes.
+- Adjust shape properties like width, height, radius, and fill color.
 
-### `npm run build`
+## Usage
+- Click "Add Rectangle" or "Add Circle" to create shapes on the canvas.
+- Click a shape to select it. Hold down the Shift key to select multiple shapes.
+- Adjust shape properties in the Property Editor on the right.
+- Drag shapes on the canvas by clicking and dragging them.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-### `npm start`
+In order to run the project on your local machine:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/RaySCS/shape-toy-graphics-editor.git
+
+2. Navigate to the project directory:
+   
+   ```bash
+   cd shapetoy
+
+3. Install the project dependencies 
+   
+   ```bash
+   npm install
+   
+4. Start the development server
+   
+   ```bash
+   npm start
+
+5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
