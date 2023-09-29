@@ -31,7 +31,7 @@ In order to run the project on your local machine:
 2. Navigate to the project directory:
    
    ```bash
-   cd shapetoy
+   cd shape-toy-graphics-editor
 
 3. Install the project dependencies 
    
